@@ -1,0 +1,8 @@
+C:\Users\florv\source\repos\Examen1\Examen1\bin\Debug\Examen1.exe.config
+C:\Users\florv\source\repos\Examen1\Examen1\bin\Debug\Examen1.exe
+C:\Users\florv\source\repos\Examen1\Examen1\bin\Debug\Examen1.pdb
+C:\Users\florv\source\repos\Examen1\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+C:\Users\florv\source\repos\Examen1\Examen1\obj\Debug\Examen1.csproj.SuggestedBindingRedirects.cache
+C:\Users\florv\source\repos\Examen1\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\florv\source\repos\Examen1\Examen1\obj\Debug\Examen1.exe
+C:\Users\florv\source\repos\Examen1\Examen1\obj\Debug\Examen1.pdb
